@@ -2,7 +2,7 @@
 
 This Web clone is built using ReactJS and TMDB API to fetch all the movie & tv show details.
 
-Hosting URL: https://hulu-clone-1719c.web.app/
+Check it out: https://hulu-clone-1719c.web.app/
 
 ## Project Screen Shot(s)
 
